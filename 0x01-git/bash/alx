@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-echo ALX School
-=======
-echo ALX School is so cool!
->>>>>>> 8d93dd483c8364759fea99fa489bde6d9d0d7413
-=======
-echo ALX School is so cool!
-=======
-echo ALX School
->>>>>>> update_script
->>>>>>> 40ecaaeadcd99f9e5493c00c5bcf8236c41db9cb
+echo ALX School is cool!
